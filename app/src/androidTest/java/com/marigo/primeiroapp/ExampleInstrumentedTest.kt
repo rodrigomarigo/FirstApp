@@ -20,6 +20,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.marigo.primeiroapp", appContext.packageName)
-        /*just a small change*/
+        /*just a small change2*/
     }
 }
